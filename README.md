@@ -1,2 +1,3 @@
 # Easybank-Website
-A challenge by frontendmentor.io, so its just the frontend.
+- A challenge by frontendmentor.io, so its just the frontend.
+![alt text](https://dl.dropbox.com/s/fukf3m0o9sao51j/easybank.PNG?dl=0)
